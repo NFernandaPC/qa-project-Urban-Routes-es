@@ -62,5 +62,11 @@ Técnicas de refactorización de código:
 La creación de la clase UrbanRoutesPage, ayuda a la refactorización del código,
 para que sea mas fácil de mantener y de leer.
 
-
+Pasos para ejecutar las pruebas.
+1) Reiniciar el servidor Urban Routes.
+2) Copiar la URL
+3) Pegar la URL en "data.py"
+4) Ejecutar la pruebas DE "main.py"
+5) Abrir la terminal
+6) Ejecutar pytest -v para ver detalles de estado de pruebas
 
